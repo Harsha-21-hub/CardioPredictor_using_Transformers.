@@ -1,8 +1,10 @@
-torch
-rtdl
-numpy
-pandas
+torch==1.13.1
+rtdl==0.0.13
+
+numpy<2
+pandas<2
 scikit-learn
+
 streamlit
 plotly
 matplotlib

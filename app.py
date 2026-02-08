@@ -45,9 +45,9 @@ except:
     st.stop()
 
 # --- UI ---
-st.set_page_config(page_title="Cardio Neural Net", layout="wide")
-st.title("🧠 Neural Heart Disease Predictor")
-st.markdown("AI-Powered Early Warning System for Heart Disease")
+st.set_page_config(page_title="Cardio Predictor", layout="wide")
+st.title("🫀 The Cardio Predictor")
+st.markdown("### AI-Powered Early Warning System for Heart Disease")
 
 col1, col2 = st.columns([1, 1])
 
@@ -124,3 +124,4 @@ with col2:
         else:
 
             st.success(f"✅ Low Probability ({risk_percent:.1f}%) detected.")
+

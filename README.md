@@ -3,7 +3,7 @@
 A deep learning–based heart disease prediction system using a **Transformer neural network** trained on tabular medical data.
 
 ## 🚀 Live Demo
-(Deploy on Streamlit after upload)
+🔗 https://cardiopredictorusingtransformers.streamlit.app/
 
 ## 🧠 Model Architecture
 - Transformer Encoder for tabular data

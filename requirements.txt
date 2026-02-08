@@ -1,9 +1,10 @@
-
-pandas 
-numpy 
-scikit-learn 
-tensorflow 
-matplotlib 
-joblib 
-tensorflow-addons
-torch rtdl
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy
+pandas
+scikit-learn
+streamlit
+plotly
+matplotlib
+joblib
